@@ -19,3 +19,6 @@ function isPanlindrome(){
 }
 
 isPanlindrome();
+
+// cant full solve it, it has a bug in the code. the bug is that it doesn't fully satisfy or pass the test cases.  
+// It has to do with the reverse function, I need to find a way map from behind to front. and then compare the two arrays.
